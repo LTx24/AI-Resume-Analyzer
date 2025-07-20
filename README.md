@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/languages/top/deepakpadhi986/AI-Resume-Analyzer?color=red" alt="language" />
     <img src="https://img.shields.io/github/languages/code-size/deepakpadhi986/AI-Resume-Analyzer?color=informational" alt="code size" />
     <a href="https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/deepakpadhi986/AI-Resume-Analyzer.svg?color=yellow" alt="license" />
+     
     </a>
   </p>
   
