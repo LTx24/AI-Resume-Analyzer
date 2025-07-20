@@ -7,7 +7,7 @@
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/github/last-commit/deepakpadhi986/AI-Resume-Analyzer" alt="last update" />
+    
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source" />
     <img src="https://img.shields.io/github/languages/top/deepakpadhi986/AI-Resume-Analyzer?color=red" alt="language" />
     <img src="https://img.shields.io/github/languages/code-size/deepakpadhi986/AI-Resume-Analyzer?color=informational" alt="code size" />
